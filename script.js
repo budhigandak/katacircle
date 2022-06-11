@@ -48,6 +48,7 @@ function timer() {
             draw();
         } else {
             changePlayer();
+            gameOver = true;
             document.querySelector("h3").innerText = "TimeOut! " + player + " Won."
         }
 
