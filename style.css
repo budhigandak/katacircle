@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: linear-gradient(to right, white, rgb(53, 226, 238));
+    background-image: linear-gradient(to right, rgb(21, 21, 245), rgb(224, 28, 224));
     padding-top: 25px;
     display: flex;
     flex-direction: column;
