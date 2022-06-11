@@ -54,7 +54,7 @@ function timer() {
         pauseTimer();
         return;
     }
-    interval = setInterval(timer, 75);
+    interval = setInterval(timer, 1000);
 }
 //timer function ends
 
